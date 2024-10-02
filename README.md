@@ -13,7 +13,7 @@ O objetivo do modelo de machine learning é calcular a propensão de que um dado
 Abra o `CMD` e digite o seguinte comando para baixar o código
 
 ```
-git clone https://github.com/
+git clone https://github.com/helio69/propensao-revenda-v2.git
 ```
 
 Depois de finalizado, digite o comando `dir` e verifique que uma pasta chamada `propensao-revenda` ou `propensao-revenda-main` agora existe no seu computador.
