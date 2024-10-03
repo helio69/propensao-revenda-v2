@@ -111,7 +111,7 @@ Um nova aba será aberta com o terminal disponível, conforme imagem abaixo.
 Na janela que abriu no navegador, com acesso ao terminal, execute os comandos abaixo:
 
 ```bash
-git clone https://github.com/joaopcnogueira/propensao-revenda.git
+git clone https://github.com/helio69/propensao-revenda-v2.git
 ```
 
 ```bash
