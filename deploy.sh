@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 
 # clonar o rojeto na instância (servidor)
-git clone https://github.com/joaopcnogueira/propensao-revenda.git
+git clone https://github.com/helio69/propensao-revenda-v2.git
 
 # baixar o miniconda (pacote menor que o anaconda para agilizar o deploy)
 wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh
