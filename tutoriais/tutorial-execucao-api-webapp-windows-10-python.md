@@ -62,7 +62,7 @@ Note que o texto `(env_deploy)` estará a esquerda de `C:\Users\Aulas>`. Conform
 Abra o `CMD` e digite o seguinte comando para baixar o código
 
 ```
-git clone https://github.com/joaopcnogueira/propensao-revenda.git  propensao-revenda
+git clone https://github.com/helio69/propensao-revenda-v2.git  propensao-revenda
 ```
 
 Depois de finalizado, digite o comando `dir` e verifique que uma pasta chamada `propensao-revenda` foi adicionado no diretório raiz (`C:\Users\Aulas>`).

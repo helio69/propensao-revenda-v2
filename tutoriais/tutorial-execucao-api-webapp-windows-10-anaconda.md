@@ -32,7 +32,7 @@ No momento da instalação, selecionar a seguinte opção: `Add Anaconda3 to my 
 Abra o `CMD` e digite o seguinte comando para baixar o código
 
 ```
-git clone https://github.com/joaopcnogueira/propensao-revenda.git
+git clone https://github.com/helio69/propensao-revenda-v2.git
 ```
 
 ![Git Clone](./imagens/git_clone.png)
